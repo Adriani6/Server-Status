@@ -99,7 +99,7 @@ $Error = $e->getMessage( );
 <td>
 <?php foreach( $Players as $Player ): ?>
 
-<img src="https://minotar.net/avatar/<?php echo htmlspecialchars( $Player ); ?>/32.png" title="<?php echo htmlspecialchars( $Player ); ?>">
+<img src="https://cravatar.eu/avatar/<?php echo htmlspecialchars( $Player ); ?>/32.png" title="<?php echo htmlspecialchars( $Player ); ?>">
 
 <?php endforeach; ?>
 </td>
